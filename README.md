@@ -121,6 +121,5 @@ Third Challenge assignment; create a bracket for a universal joint with Onshape.
 Fourth Challenge assignment; finish entire Challenge assembly with Onshape. 
 ### Resources
 ### Images
-<img src="Images/Challenge/ChallengeAssem.mp4" width="400">
-
+https://tinyurl.com/ChallengeAssem
 ### Takeaways
