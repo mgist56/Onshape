@@ -9,7 +9,7 @@ http://wiki.chssigma.com/index.php?title=User:Mgist56
 First Onshape assignment;  make a base for caster with Onshape.
 ### Resources
 ### Images
-<img src="Images/Base.png" width="500">
+<img src="Caster/Base.png" width="500">
 
 ### Takeaways
 
@@ -17,7 +17,7 @@ First Onshape assignment;  make a base for caster with Onshape.
 Second Onshape assignment; make a mount for caster with Onshape. 
 ### Resources
 ### Images
-<img src="Images/Mount.png" width="500">
+<img src="Caster/Mount.png" width="500">
 
 ### Takeaways
 
@@ -25,7 +25,7 @@ Second Onshape assignment; make a mount for caster with Onshape.
 Third Onshape assignment; make a fork for caster with Onshape. 
 ### Resources
 ### Images
-<img src="Images/Fork.png" width="500">
+<img src="Caster/Fork.png" width="500">
 
 ### Takeaways
 
@@ -33,7 +33,7 @@ Third Onshape assignment; make a fork for caster with Onshape.
 Fourth Onshape assignment; make a tire for caster with Onshape. 
 ### Resources
 ### Images
-<img src="Images/Tire.png" width="500">
+<img src="Caster/Tire.png" width="500">
 
 ### Takeaways
 
@@ -41,7 +41,7 @@ Fourth Onshape assignment; make a tire for caster with Onshape.
 Fith Onshape assignment; make a wheel and bearing for caster with Onshape. 
 ### Resources
 ### Images
-<img src="Images/Wheel & Bearing.png" width="500">
+<img src="Caster/Wheel & Bearing.png" width="500">
 
 ### Takeaways
 
@@ -49,8 +49,8 @@ Fith Onshape assignment; make a wheel and bearing for caster with Onshape.
 Sixth Onshape assignment; make an axle, collar and bearing for caster with Onshape. 
 ### Resources
 ### Images
-<img src="Images/Axle & Collar.png" width="500">
-<img src="Images/Big Bearing.png" width="500">
+<img src="Caster/Axle & Collar.png" width="500">
+<img src="Caster/Big Bearing.png" width="500">
 
 ### Takeaways
 
@@ -58,7 +58,7 @@ Sixth Onshape assignment; make an axle, collar and bearing for caster with Onsha
 Seventh Onshape assignment; make sub assembly for caster with Onshape. 
 ### Resources
 ### Images
-<img src="Images/Wheel & Axle.png" width="500">
+<img src="Caster/Wheel & Axle.png" width="500">
 
 ### Takeaways
 
@@ -66,6 +66,6 @@ Seventh Onshape assignment; make sub assembly for caster with Onshape.
 Eighth Onshape assignment; finish entire caster assembly with Onshape. 
 ### Resources
 ### Images
-<img src="Images/Caster.png" width="500">
+<img src="Caster/Caster.png" width="500">
 
 ### Takeaways
