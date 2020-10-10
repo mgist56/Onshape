@@ -18,11 +18,11 @@ http://wiki.chssigma.com/index.php?title=User:Mgist56
 
 [Wheel](#wheel)
 
-[Axle, Collar & Bearing](#axle, collar & bearing)
+[Axle, Collar & Bearing](#axle-collar--bearing)
 
-[Wheel & Axle](#wheel & axle)
+[Wheel & Axle](#wheel--axle)
 
-[Caster Assembly](#caster assembly)
+[Caster Assembly](#caster-assembly)
 
 ## Base
 First Onshape assignment;  make a base for caster with Onshape.
