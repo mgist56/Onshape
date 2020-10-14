@@ -24,6 +24,24 @@ http://wiki.chssigma.com/index.php?title=User:Mgist56
 
 [Caster Assembly](#caster-assembly)
 
+#### Dorthy's Dowels
+
+[Dowels](#dowels)
+
+[Frame](#frame)
+
+[Dowel Assembly](#dowel-assembly)
+
+#### Challenge
+
+[Cube](#cube)
+
+[Spinner Shaft](#spinner-shaft)
+
+[Bracket](#bracket)
+
+[Challenge Assembly](#challenge-assembly)
+
 # Caster
 
 ## Base
@@ -88,6 +106,32 @@ Eighth Caster assignment; finish entire caster assembly with Onshape.
 ### Resources
 ### Images
 <img src="Images/Caster/Caster.png" width="400">
+
+### Takeaways
+
+# Dorthy's Dowels
+
+## Dowels
+Part one of the Dorthy's Dowels assignment; create dowel configurations.
+### Resources
+### Images
+<img src="Images/Dowels/Dowel.png" width="400">
+
+### Takeaways
+
+## Frame
+Part two of the Dorthy's Dowels assignment; create frame configurations.
+### Resources
+### Images
+<img src="Images/Dowels/Frame.png" width="400">
+
+### Takeaways
+
+## Dowel Assembly
+Final part of the Dorthy's Dowels assingment; put parts together in the assembly.
+### Resources
+### Images
+<img src="Images/Dowels/Frame.png" width="400">
 
 ### Takeaways
 
